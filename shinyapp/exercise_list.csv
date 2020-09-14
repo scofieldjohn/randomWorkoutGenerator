@@ -1,0 +1,111 @@
+exercise,category,group
+reverse grip barbell bench press,push,compound
+flat bar bench neutral,push,compound
+flat bar bench wide-grip,push,compound
+flat bar bench narrow-grip,push,compound
+incline bar bench,push,compound
+decline bar bench,push,compound
+flat dumbell bench,push,compound
+incline dumbell bench,push,compound
+decline dumbell bench,push,compound
+overhead medicine ball wall throws,push,compound
+Dips,push,compound
+machine chest fly,push,chest
+cable chest fly neutral,push,chest
+cable chest fly upper,push,chest
+cable chest fly lower,push,chest
+dumbell chest fly,push,chest
+push-up neutral,push,compound
+push-up wide ,push,compound
+push-up diamond stance,push,compound
+one-arm cable lateral raise,push,shoulder
+one-arm cable front raise,push,shoulder
+dumbell lateral raise,push,shoulder
+dumbell front raise,push,shoulder
+barbell military press,push,shoulder
+wide-grip barbell upright row,push,shoulder
+narrow-grip barbell upright row,push,shoulder
+machine military press,push,shoulder
+cable rope face pulls,push,shoulder
+dumbell shoulder press wide,push,shoulder
+dumbell shoulder press arnold,push,shoulder
+machine lateral raises,push,shoulder
+dumbell tricep kickback,push,tricep
+cable rope tricep pulldown,push,tricep
+machine overhead tricep extension,push,tricep
+barbell skull crushers,push,tricep
+bench dips,push,tricep
+standing overhead cable tricep extension,push,tricep
+straight arm cable pull down,push,tricep
+pull-ups,pull,compound
+weighted pull-ups,pull,compound
+cable lat pull downs,pull,compound
+machine seated rows,pull,compound
+dumbell bench bent-over rows,pull,compound
+barbell bent-over rows,pull,compound
+machine bent-over rows,pull,compound
+machine back flies,pull,upper_back
+bench supported dumbell back flies,pull,upper_back
+bent-over dumbell flies,pull,upper_back
+dumbell bicep curls full twist,pull,bicep
+barbell bicep curls - wide grip,pull,bicep
+barbell bicep curls - neutral grip,pull,bicep
+barbell bicep curls - narrow grip,pull,bicep
+cable rope bicep curls,pull,bicep
+preacher barbell curls,pull,bicep
+preacher machine curls,pull,bicep
+against-knee concentration curls,pull,bicep
+bench supported spider curls,pull,bicep
+dumbell hammer curls,pull,bicep
+incline bench dumbell curls,pull,bicep
+cable flex curl,pull,bicep
+barbell shoulder shrugs,pull,traps
+cable shoulder shrugs,pull,traps
+machine shoulder shrugs,pull,traps
+barbell back squat,legs,compound
+machine leg press,legs,compound
+inverted leg press,legs,compound
+barbell deadlift full motion,legs,lower_back
+one-legged dumbell deadlift,legs,lower_back
+Romanian deadlift,legs,lower_back
+box jumps,legs,compound
+machine quad extension,legs,quad
+barbell front squat,legs,compound
+machine calves,legs,calves
+dumbell calves,legs,calves
+machine hamstring curls,legs,hamstring
+kettle bell walking lunge,legs,compound
+machine single leg press,legs,compound
+jumping alternating body-weight lunges,legs,compound
+barbell/machine glute press,legs,glute
+bench supported dumbell forearms,misc,forearm
+barbell back forearm curls,misc,forearm
+diamond grip wall forearm taps,misc,forearm
+front plank,abs,abs
+side planks,abs,abs
+bicycles,abs,abs
+hands-on-butt seated v's,abs,abs
+lower ab diamond up and to sky,abs,abs
+straight leg to the sky,abs,abs
+penguins,abs,abs
+machine abs,abs,abs
+pull-up bar toes to hands,abs,abs
+russian twists,abs,abs
+flutter kicks,abs,abs
+legs up toe touches,abs,abs
+full v-ups,abs,abs
+leg climb ups,abs,abs
+mountain climbers,abs,abs
+full sit-ups,abs,abs
+treadmill,cardio,cardio
+elliptical,cardio,cardio
+rowing machine,cardio,cardio
+stair stepper,cardio,cardio
+stationary bike,cardio,cardio
+run hills,cardio,cardio
+burpees,full_body,full_body
+kettle bell swings,full_body,full_body
+barbell power clean,full_body,full_body
+single-arm dumbell power clean,full_body,full_body
+barbell snatch,full_body,full_body
+rope slams,full_body,full_body
