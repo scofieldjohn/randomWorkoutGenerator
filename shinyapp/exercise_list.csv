@@ -1,5 +1,5 @@
 exercise,category,group
-reverse grip barbell bench press,push,compound
+rev-grip barbell bench,push,compound
 flat bar bench neutral,push,compound
 flat bar bench wide-grip,push,compound
 flat bar bench narrow-grip,push,compound
@@ -8,7 +8,7 @@ decline bar bench,push,compound
 flat dumbell bench,push,compound
 incline dumbell bench,push,compound
 decline dumbell bench,push,compound
-overhead medicine ball wall throws,push,compound
+shoulder medball wall throw,push,compound
 Dips,push,compound
 machine chest fly,push,chest
 cable chest fly neutral,push,chest
@@ -35,7 +35,7 @@ cable rope tricep pulldown,push,tricep
 machine overhead tricep extension,push,tricep
 barbell skull crushers,push,tricep
 bench dips,push,tricep
-standing overhead cable tricep extension,push,tricep
+overhead cable tricep exten.,push,tricep
 straight arm cable pull down,push,tricep
 pull-ups,pull,compound
 weighted pull-ups,pull,compound
@@ -45,7 +45,7 @@ dumbell bench bent-over rows,pull,compound
 barbell bent-over rows,pull,compound
 machine bent-over rows,pull,compound
 machine back flies,pull,upper_back
-bench supported dumbell back flies,pull,upper_back
+bench support dumbell back flies,pull,upper_back
 bent-over dumbell flies,pull,upper_back
 dumbell bicep curls full twist,pull,bicep
 barbell bicep curls - wide grip,pull,bicep
@@ -76,9 +76,9 @@ dumbell calves,legs,calves
 machine hamstring curls,legs,hamstring
 kettle bell walking lunge,legs,compound
 machine single leg press,legs,compound
-jumping alternating body-weight lunges,legs,compound
+jump alternate body-weight lunge,legs,compound
 barbell/machine glute press,legs,glute
-bench supported dumbell forearms,misc,forearm
+bench support dumbell forearms,misc,forearm
 barbell back forearm curls,misc,forearm
 diamond grip wall forearm taps,misc,forearm
 front plank,abs,abs

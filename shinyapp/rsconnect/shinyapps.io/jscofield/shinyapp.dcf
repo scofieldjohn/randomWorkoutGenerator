@@ -1,0 +1,10 @@
+name: shinyapp
+title:
+username:
+account: jscofield
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2808882
+bundleId: 3629248
+url: https://jscofield.shinyapps.io/shinyapp/
+when: 1600125825.66282

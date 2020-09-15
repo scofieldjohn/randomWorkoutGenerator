@@ -6,7 +6,8 @@ ui <- shinyUI(
     shinyWidgets::panel(
       fluidRow(
         column(12, align="center",
-               actionButton("rmd", "Create Workout")
+               actionButton("rmd", "Create Workout"),
+               downloadButton("report", "Download WOD")
         )
       ))
     
@@ -15,11 +16,28 @@ ui <- shinyUI(
 )
 
 server <- function(input, output) {
+  
   observeEvent(input$rmd, {
     output$test <- renderUI({
       withMathJax(includeHTML(rmarkdown::render("create_dailyWorkout.Rmd")))
     })
   })
+  
+  output$report <- downloadHandler(
+    # For PDF output, change this to "report.pdf"
+    filename = "report.html",
+    content = function(file) {
+      
+
+      
+      withMathJax(includeHTML(rmarkdown::render("create_dailyWorkout.Rmd",
+                                                output_file = file,
+                                                envir = new.env(parent = globalenv()))))
+      
+    }
+  )
+
+  
 }
 
 

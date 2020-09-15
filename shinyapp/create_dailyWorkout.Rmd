@@ -58,10 +58,10 @@ if(str_split(Sys.Date(),'-')[[1]][1] != str_split(read.csv('phaseDay.csv')$date[
 exlist = read.csv('exercise_list.csv')
 phaseday = read.csv('phaseDay.csv')
 
-cardio_minutes = c("10 min","15 min","20 min","25 min","30 min")
-ab_reps = c("15 reps","20 reps","25 reps","30 reps","35 reps")
-build_sets = c("3x10 reps", "4x7 reps","5x4 reps")
-light_sets = c("4x10 reps", "3x20 reps","4x25 reps")
+cardio_minutes = c("10min","15min","20min","25min","30min")
+ab_reps = c("15reps","20reps","25reps","30reps","35reps")
+build_sets = c("3x10", "4x7","5x4")
+light_sets = c("4x10", "3x20","4x25")
 tmpDay = phaseday[phaseday$date == Sys.Date(),]
 what_phase = tmpDay$phase
 what_day = tmpDay$day
